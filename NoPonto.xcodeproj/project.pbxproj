@@ -20,6 +20,7 @@
 		AC9E5661231AA2CC00EFEABE /* ExtensionDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC9E5660231AA2CC00EFEABE /* ExtensionDelegate.swift */; };
 		AC9E5663231AA2CC00EFEABE /* NotificationController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC9E5662231AA2CC00EFEABE /* NotificationController.swift */; };
 		AC9E5665231AA2CD00EFEABE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AC9E5664231AA2CD00EFEABE /* Assets.xcassets */; };
+		AC9E5676231AB99E00EFEABE /* MeateTemperature.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC9E5675231AB99E00EFEABE /* MeateTemperature.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -83,6 +84,7 @@
 		AC9E5664231AA2CD00EFEABE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		AC9E5666231AA2CD00EFEABE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		AC9E5667231AA2CD00EFEABE /* PushNotificationPayload.apns */ = {isa = PBXFileReference; lastKnownFileType = text; path = PushNotificationPayload.apns; sourceTree = "<group>"; };
+		AC9E5675231AB99E00EFEABE /* MeateTemperature.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MeateTemperature.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -155,6 +157,7 @@
 				AC9E5664231AA2CD00EFEABE /* Assets.xcassets */,
 				AC9E5666231AA2CD00EFEABE /* Info.plist */,
 				AC9E5667231AA2CD00EFEABE /* PushNotificationPayload.apns */,
+				AC9E5675231AB99E00EFEABE /* MeateTemperature.swift */,
 			);
 			path = "NoPonto WatchKit Extension";
 			sourceTree = "<group>";
@@ -303,6 +306,7 @@
 				AC9E5663231AA2CC00EFEABE /* NotificationController.swift in Sources */,
 				AC9E5661231AA2CC00EFEABE /* ExtensionDelegate.swift in Sources */,
 				AC9E565F231AA2CC00EFEABE /* InterfaceController.swift in Sources */,
+				AC9E5676231AB99E00EFEABE /* MeateTemperature.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
